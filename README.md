@@ -61,4 +61,4 @@ Express App을 띄워볼 것
 2. 추가조건(하면 좋고 아님 말고)
 MVC 패턴 구조
 각종 미들웨어 사용해보기
-TypeScript로 해보기
+3. TypeScript로 해보기
