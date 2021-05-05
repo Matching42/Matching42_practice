@@ -19,6 +19,9 @@ commit template 적용법
 git config commit.template {gitmessage.txt file path}
 ```
 4. 본인 branch에 push 후 development로 pull request를 보낼 것
+```
+git push origin practice/#_seolim
+```
 5. pull Request의 내용을 자세히 작성할 것
     - 이걸 하기위해 뭘 조사했고 어떻게 하였는지 작성
     - 이 PR을 보고 다른사람이 똑같이 따라하였을 때, 따라할 수 있게
