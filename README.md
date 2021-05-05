@@ -46,19 +46,19 @@ git push origin practice/#_seolim
 
 ### FRONT END 
 1. 최소조건
-React App울 띄워볼 것
-하나 이상 상태에 따라 동적으로 변하는 component를 만들어 볼것
+    - React App울 띄워볼 것
+    - 나 이상 상태에 따라 동적으로 변하는 component를 만들어 볼것
 
 2. 추가조건(하면 좋고 아님 말고)
-CRA없이 직접 설정해보기
+    - CRA없이 직접 설정해보기
 
 
 ### BACK END
 1. 최소조건
-Express App을 띄워볼 것
-2개 이상의 routing을 구현할 것
+    - Express App을 띄워볼 것
+    - 2개 이상의 routing을 구현할 것
 
 2. 추가조건(하면 좋고 아님 말고)
-MVC 패턴 구조
-각종 미들웨어 사용해보기
-3. TypeScript로 해보기
+    - MVC 패턴 구조
+    - 각종 미들웨어 사용해보기
+    - TypeScript로 해보기
