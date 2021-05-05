@@ -1,6 +1,10 @@
 # Matching 42 Practice
 
 ### 양쪽 다
+0. development branch를 clone 할 것
+```
+git clone -b development --single-branch {url}
+```
 1. 본인의 issue를 하나씩 발급할 것
     - template 양식에 맞춰 쓸 것(들어가보면 알겁니다)
 2. 본인의 branch를 development 브런치로 부터 만들어서 진행할 것
@@ -9,7 +13,11 @@
 git checkout -b practice/#_seolim development
 ```
 3. 각자의 section directory에서 본인의 directory를 만들고 진행할 것(연습이니까 merge confilct 방지용)
-4. commit을 규칙에 맞추어 작성할 것
+4. commit을 규칙에 맞추어 작성할 
+commit template 적용법
+```
+git config commit.template {gitmessage.txt file path}
+```
 4. 본인 branch에 push 후 development로 pull request를 보낼 것
 5. pull Request의 내용을 자세히 작성할 것
     - 이걸 하기위해 뭘 조사했고 어떻게 하였는지 작성
