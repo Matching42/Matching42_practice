@@ -1,0 +1,45 @@
+{
+  "name": "jognkim",
+  "version": "1.0.0",
+  "description": "Matching42_practice_FRONT",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack serve",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Matching42/Matching42_practice.git"
+  },
+  "keywords": [
+    "front",
+    "practice",
+    "react",
+    "no",
+    "cra"
+  ],
+  "author": "jongkim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Matching42/Matching42_practice/issues"
+  },
+  "homepage": "https://github.com/Matching42/Matching42_practice#readme",
+  "dependencies": {
+    "@babel/core": "^7.14.0",
+    "@babel/preset-env": "^7.14.1",
+    "@babel/preset-react": "^7.13.13",
+    "babel-loader": "^8.2.2",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "css-loader": "^5.2.4",
+    "file-loader": "^6.2.0",
+    "html-webpack-plugin": "^5.3.1",
+    "style-loader": "^2.0.0",
+    "url-loader": "^4.1.1",
+    "webpack": "^5.36.2",
+    "webpack-cli": "^4.7.0",
+    "webpack-dev-server": "^3.11.2"
+  }
+}
