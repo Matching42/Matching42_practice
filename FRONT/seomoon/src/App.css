@@ -1,0 +1,12 @@
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #f8ede3;
+    color: #798777;
+    font-size: 3em;
+    border: 5px solid #bdd2b6;
+    box-sizing: border-box;
+    margin: 0;
+}
